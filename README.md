@@ -1,5 +1,8 @@
 # infosec-tools
 Just a collection of personal infosec-related scripts and programs. This is mostly just a scratch pad for ideas and to help me learn the craft.
+## General Tools
+### ezfuzz.py
+Just a really basic socket-based fuzz tester. Useful for quickly fuzzing server input for buffer overflows. Nothing fancy.
 
 ## Windows Tools
 ### wifi_pwd_dump.bat 
